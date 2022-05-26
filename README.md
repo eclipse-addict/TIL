@@ -18,6 +18,12 @@
 - [swea 모의고사 문제 _요리사_Pemutations & combinations ](https://github.com/edushin/Algo/tree/master/mock/q01_cook)
 - [Stack](https://github.com/edushin/Algo/tree/master/stack)
 - [String](https://github.com/edushin/Algo/tree/master/string)
+- [first Bfs 시도](https://github.com/edushin/Algo/tree/master/stack/1-5)
+- [python Queue 구현 연습](https://github.com/edushin/Algo/tree/master/queue)
+- [List Algorithm Advanced (feat.LinkedList)](https://github.com/edushin/Algo/tree/master/linkedList)
+  - LinkedList 강의를 다시 한번 들어야겠다.	
+    - **class 로 구현하는 법 익히기**
+
 
 
 
