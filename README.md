@@ -23,8 +23,7 @@
 - [List Algorithm Advanced (feat.LinkedList)](https://github.com/edushin/Algo/tree/master/linkedList)
   - LinkedList 강의를 다시 한번 들어야겠다.	
     - **class 로 구현하는 법 익히기**
-
-
+- [Tree](https://github.com/edushin/Algo/tree/master/tree)
 
 
 ___
